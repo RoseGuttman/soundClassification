@@ -1,0 +1,10 @@
+python train.py --train_dir=./trainLogs_audioset_logistic --train_data_pattern=../audioset_v1_embeddings/bal_train/*.tfrecord --feature_names=audio_embedding --feature_sizes=128 --num_classes=527 --frame_features --model=LstmModel --batch_size=512 --learning_rate_decay_examples=400000 --num_epochs=10
+
+Command that works (it's a mystery to me)
+python train.py --train_data_pattern=../audioset_v1_embeddings/bal_train/*.tfrecord --num_epochs=10 --learning_rate_decay_examples=400000 --feature_names=audio_embedding --feature_sizes=128 --frame_features --batch_size=512 --num_classes=527 --train_dir=./trainLogs_audioset_logistic --model=FrameLevelLogisticModel
+
+python eval.py --eval_data_pattern=../audioset_v1_embeddings/eval/*.tfrecord  --train_dir=./trainLogs_audioset_logistic --feature_names=audio_embedding --feature_sizes=128 --num_classes=527 --frame_features --model=FrameLevelLogisticModel --batch_size=512
+
+python inference.py --output_file=./trainLogs_unbal_logistic/predictions.csv --input_data_pattern=../audioset_v1_embeddings/eval/*.tfrecord --train_dir=./trainLogs_audioset_logistic --feature_names=audio_embedding --feature_sizes=128 --num_classes=527 --frame_features --model=FrameLevelLogisticModel --batch_size=512
+
+ 	
