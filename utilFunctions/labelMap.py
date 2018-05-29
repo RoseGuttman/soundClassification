@@ -56,16 +56,28 @@ import numpy as np
 #       327, 361, 371, 386, 396, 397, 418, 500])  #Specify all labels to be selected from original 527 classes
 #mapping[:, 1] = np.arange(0, numOfLabels)
 
-## Iteration 2.1. 30 Selected classes from all 527 classes with 100% accuracy. mapping specified in ~./GoogleDrive/Logistic-eg100k-iter100-batch512-classes34_100-confusionMatrix.xlsx###
+## Iteration 2.1. 29 Selected classes from all 527 classes with 100% accuracy. mapping specified in ~./GoogleDrive/Logistic-eg100k-iter100-batch512-classes34_100-confusionMatrix.xlsx###
+#numOfOrigLabels = 34 #Total number of labels selected from the original set of 537 classes
+#numOfLabels = 29    #Total number of new labels
+#mapping = np.zeros((numOfOrigLabels,2), dtype=int) # Mapping from the original 527 classes to the new set of labels
+#mapping[:, 0] = np.array([  0,   1,   2,   3,   5,   6,  16,  18,  23,  27,  47,  49,  66,
+#        74,  75,  81, 111, 112, 113, 200, 288, 292, 300, 306, 307, 322,
+#       327, 361, 371, 386, 396, 397, 418, 500])  #Specify all labels to be selected from original 527 classes
+#mapping[:, 1] = np.array([  0,   1,   2,   3,   4,   5,  6,   7,   8,   9,   10,  11,  12,
+#        13,  14,  15, 16,  16,  16,  17,  18,  19, 20,  20,  20,  21,
+#        22, 23, 24, 25, 26, 26,  27, 28])
+
+
+## Iteration 2.4. 34 Selected classes from all 527 classes with 100% accuracy, combined into all parent classes. mapping specified in ~./GoogleDrive/Logistic-eg100k-iter100-batch512-classes34_100_uni_us-confusionMatrix.xlsx###
 numOfOrigLabels = 34 #Total number of labels selected from the original set of 537 classes
-numOfLabels = 29    #Total number of new labels
+numOfLabels = 19    #Total number of new labels
 mapping = np.zeros((numOfOrigLabels,2), dtype=int) # Mapping from the original 527 classes to the new set of labels
 mapping[:, 0] = np.array([  0,   1,   2,   3,   5,   6,  16,  18,  23,  27,  47,  49,  66,
         74,  75,  81, 111, 112, 113, 200, 288, 292, 300, 306, 307, 322,
        327, 361, 371, 386, 396, 397, 418, 500])  #Specify all labels to be selected from original 527 classes
-mapping[:, 1] = np.array([  0,   1,   2,   3,   4,   5,  6,   7,   8,   9,   10,  11,  12,
-        13,  14,  15, 16,  16,  16,  17,  18,  19, 20,  20,  20,  21,
-        22, 23, 24, 25, 26, 26,  27, 28])
+mapping[:, 1] = np.array([  0,   0,   0,   0,   0,   0,   1,   1,   2,   3,   4,   5,   6,
+        7,   7,    8,   9,   9,   9,  10,  11,  11,  12,  12,  12,  12,
+        12,  13,  14,  15,  16,  16,  17,  18])
 
 def mapLabel(label):
     index = np.where(mapping[:,0] == label)[0][0]

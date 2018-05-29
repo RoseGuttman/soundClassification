@@ -55,6 +55,16 @@ def mapLabelsInFile(readfile, mapping, writefile):
         example.ParseFromString(string_record)      
         for i in range(0, len(example.context.feature['labels'].int64_list.value)):
             example.context.feature['labels'].int64_list.value[i] = labelMap.mapLabel(example.context.feature['labels'].int64_list.value[i])
+        
+        # Delete repeated labels if any
+        unique = np.unique(example.context.feature['labels'].int64_list.value)
+        i = 0
+        while (i < len(unique)):
+            example.context.feature['labels'].int64_list.value[i] = unique[i]
+            i+=1
+        while (i < len(example.context.feature['labels'].int64_list.value)):
+            example.context.feature['labels'].int64_list.value.remove(example.context.feature['labels'].int64_list.value[i])
+        
         writer.write(example.SerializeToString())
     writer.close()
 
