@@ -1,0 +1,7 @@
+{
+    "url": "https://playground.devicehive.com/api/rest",
+    "a_token": "eyJhbGciOiJIUzI1NiJ9.eyJwYXlsb2FkIjp7ImEiOlsyLDMsNCw1LDYsNyw4LDksMTAsMTEsMTIsMTUsMTYsMTddLCJlIjoxNTI4MjE4MzUxNTgyLCJ0IjoxLCJ1IjoyMTIzLCJuIjpbIjIxMDIiXSwiZHQiOlsiKiJdfX0.uXGxacXWFu0apMo-eszHTbnwiq8va1WX8xNESY0yow0",
+    "r_tokendevice_id": "",
+    "r_token": "eyJhbGciOiJIUzI1NiJ9.eyJwYXlsb2FkIjp7ImEiOlsyLDMsNCw1LDYsNyw4LDksMTAsMTEsMTIsMTUsMTYsMTddLCJlIjoxNTQzOTQxMzUxNTgzLCJ0IjowLCJ1IjoyMTIzLCJuIjpbIjIxMDIiXSwiZHQiOlsiKiJdfX0.4aZNghPWoXXA5KC8vQyHaz77fYFMQ_sMW5aVVY8_-AE",
+    "device_id": "2102"
+}

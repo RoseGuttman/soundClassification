@@ -5,9 +5,15 @@ import shutil
 import labelMap
 import sys
 
-# Command line arguments to this file
-# Argument1: Folder containing the original labels to be mapped
-# Arugment2: Folder to output the mapped label file. 
+# ###
+# File: tf-selectAndMapClasses_v2.py
+# Author: Dhruv Jain
+# Functions to pre-process the dataset before ML training and evaluation.
+# The main file to select videos with particular labels and map labels from original dataset to the new dataset
+# Command line arguments:
+# Argument1: Folder containing the dataset with original labels to be mapped
+# Arugment2: Folder to output the dataset with mapped labels. 
+# ### 
 
 def selectLabels(inFolder, outFolder):
     if not os.path.exists(outFolder):
@@ -35,6 +41,8 @@ if os.path.exists('./temp/'):
     shutil.rmtree('./temp/')        
 selectLabels(sys.argv[1], './temp/')
 
+##
+# The main function to map labels in the file
 # Pseudocode
 #	for each file (done)
 # 		read the file (Done)
@@ -46,7 +54,6 @@ selectLabels(sys.argv[1], './temp/')
 #			delete labels that are not 355, 359, or 362
 # 		if any sequence left, save the file
 # 		otherwise delete the file
-
 def mapLabelsInFile(readfile, mapping, writefile):
     record_iterator = tf.python_io.tf_record_iterator(path=readfile)
     writer = tf.python_io.TFRecordWriter(path=writefile)
@@ -80,6 +87,8 @@ if os.path.exists(sys.argv[2]):
 mapLabelsInFolder('./temp/', sys.argv[2])
 shutil.rmtree('./temp/')
 
+
+# Function to print stats of the new dataset including the number of labels, and the number of examples per label.
 def printStats(inFolder, numOfLabels):
     count = np.zeros((numOfLabels,), dtype=int)
     examples = 0

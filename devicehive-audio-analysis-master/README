@@ -1,4 +1,0 @@
-EXTRACT Models in this directory. 
-
-wget https://s3.amazonaws.com/audioanalysis/models.tar.gz
-tar -xzf models.tar.gz

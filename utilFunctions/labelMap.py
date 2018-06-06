@@ -1,5 +1,12 @@
 import numpy as np
 
+#### 
+#  File: labelMap.py
+#  Author: Dhruv Jain
+#  This file contains parameters to specify the label selections for the current training (As a mapping between the original 527 classes to the new set of classes).
+#  This is to be used as an meta import module in other python files.
+####
+
 ### Iteration 1.0. All Domestic, Home sounds 354-387 ###
 #numOfLabels = 34 #Total number of labels selected from the original set
 #mapping = np.zeros((numOfLabels,2), dtype=int) # Mapping from the original 527 classes to the new set of labels

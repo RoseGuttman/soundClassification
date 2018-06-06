@@ -1,2 +1,0 @@
-devicehive_webconfig
-devicehive_webconfig\base
