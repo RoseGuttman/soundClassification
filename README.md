@@ -1,5 +1,5 @@
 # Sound Classification repo by Makeability Lab.
-# Author: Dhruv Jain and Shuxu Tian
+### Author: Dhruv Jain and Shuxu Tian
 
 Repo for ongoing sound classification research at UW Makeability Lab baesd on Google's Audioset dataset.
 
