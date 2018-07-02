@@ -88,7 +88,8 @@ class Capture(object):
                 logger.info(
                     'Predictions: {}'.format(format_predictions(predictions))
                 )
-
+                with open("predicts.txt", "a") as myfile:
+                    myfile.write(format_predictions(predictions)+"\n")    
                 logger.info('Stop processing.')
                 self._process_buf = None
                 self._ask_data.set()

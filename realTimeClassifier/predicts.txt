@@ -1,0 +1,1381 @@
+Speech: 0.35, Bird: 0.32
+Speech: 0.36, Bird: 0.32
+Speech: 0.32, Bird: 0.23
+Bird: 0.30, Speech: 0.23, Computer keyboard: 0.20
+Speech: 0.40, Bird: 0.32
+Speech: 0.37, Bird: 0.31
+Speech: 0.37, Bird: 0.35
+Speech: 0.38, Bird: 0.26
+Speech: 0.40, Bird: 0.29
+Speech: 0.45, Bird: 0.33
+Speech: 0.42, Bird: 0.38
+Computer keyboard: 0.79, Speech: 0.35, Bird: 0.23
+Computer keyboard: 0.95
+Speech: 0.31, Computer keyboard: 0.29, Bird: 0.20
+Speech: 0.33, Computer keyboard: 0.30
+Computer keyboard: 0.36, Speech: 0.34
+Speech: 0.29, Bird: 0.27
+Speech: 0.38, Bird: 0.29
+Speech: 0.39, Bird: 0.33
+Speech: 0.37, Computer keyboard: 0.32, Bird: 0.21
+Computer keyboard: 0.32, Speech: 0.30, Bird: 0.23
+Computer keyboard: 0.30, Speech: 0.28
+Speech: 0.32, Bird: 0.30
+Speech: 0.32, Bird: 0.22
+Speech: 0.38
+Speech: 0.41, Bird: 0.30
+Speech: 0.38, Bird: 0.31
+Speech: 0.33, Bird: 0.28
+Speech: 0.24, Bird: 0.21
+Speech: 0.38, Bird: 0.21
+Speech: 0.40, Bird: 0.32
+Speech: 0.34
+Computer keyboard: 0.28, Speech: 0.23
+Speech: 0.35, Bird: 0.28
+Bird: 0.49, Speech: 0.35
+Bird: 0.41, Speech: 0.36
+Speech: 0.45, Bird: 0.37
+Speech: 0.42, Bird: 0.36
+Speech: 0.41, Bird: 0.36
+Bird: 0.39, Speech: 0.35
+Speech: 0.37, Bird: 0.36
+Speech: 0.44, Bird: 0.38
+Speech: 0.44, Bird: 0.39
+Bird: 0.32, Speech: 0.29
+Bird: 0.43, Speech: 0.38
+Speech: 0.40, Bird: 0.30
+Bird: 0.23, Speech: 0.23
+Speech: 0.29, Bird: 0.24
+Speech: 0.38, Bird: 0.27
+Computer keyboard: 0.45, Speech: 0.27
+Computer keyboard: 0.96, Speech: 0.25
+Speech: 0.39, Bird: 0.25, Computer keyboard: 0.22
+Computer keyboard: 0.63, Speech: 0.37, Bird: 0.21
+Computer keyboard: 0.70, Speech: 0.36
+Speech: 0.45, Bird: 0.38
+Speech: 0.47, Bird: 0.40
+Bird: 0.44, Speech: 0.40
+Speech: 0.42, Bird: 0.37
+Bird: 0.43, Speech: 0.36
+Bird: 0.55, Speech: 0.39
+Speech: 0.42, Bird: 0.33
+Speech: 0.41, Bird: 0.33
+Speech: 0.43, Bird: 0.30
+Bird: 0.39, Speech: 0.39
+Speech: 0.41, Bird: 0.36
+Computer keyboard: 0.45, Speech: 0.29, Bird: 0.26
+Speech: 0.36, Bird: 0.36
+Computer keyboard: 0.62, Speech: 0.25
+Computer keyboard: 0.88, Speech: 0.23
+Speech: 0.42, Bird: 0.30
+Speech: 0.42, Bird: 0.34
+Speech: 0.40, Bird: 0.33
+Computer keyboard: 0.79, Speech: 0.24, Bird: 0.21
+Computer keyboard: 0.59
+Speech: 0.36, Bird: 0.29
+Speech: 0.28
+Computer keyboard: 0.93, Speech: 0.24
+Speech: 0.32, Bird: 0.20
+Speech: 0.45, Bird: 0.28
+Speech: 0.32, Bird: 0.29
+Speech: 0.39, Bird: 0.32
+Speech: 0.42, Bird: 0.38
+Computer keyboard: 0.47, Speech: 0.36, Bird: 0.24
+Computer keyboard: 0.86, Speech: 0.25
+Computer keyboard: 0.95, Speech: 0.32
+Speech: 0.45, Bird: 0.36
+Speech: 0.46, Bird: 0.35
+Bird: 0.40, Speech: 0.38
+Speech: 0.39, Bird: 0.39
+Speech: 0.31, Bird: 0.28
+Bird: 0.42, Speech: 0.39
+Speech: 0.44, Bird: 0.33
+Speech: 0.48, Bird: 0.35
+Speech: 0.29, Bird: 0.28
+Speech: 0.43, Bird: 0.36
+Speech: 0.35, Bird: 0.31
+Speech: 0.48, Bird: 0.35
+Speech: 0.37, Bird: 0.30
+Speech: 0.39, Bird: 0.26
+Speech: 0.39, Bird: 0.36
+Speech: 0.30, Bird: 0.27
+Speech: 0.32, Bird: 0.23
+Computer keyboard: 0.87, Speech: 0.26
+Computer keyboard: 0.29, Speech: 0.26, Bird: 0.24
+Speech: 0.40, Bird: 0.39
+Speech: 0.41, Bird: 0.31
+Speech: 0.28
+Bird: 0.42, Speech: 0.40
+Computer keyboard: 0.63, Speech: 0.31
+Speech: 0.36, Bird: 0.27, Computer keyboard: 0.24
+Speech: 0.41, Bird: 0.33
+Speech: 0.41, Bird: 0.34
+Speech: 0.38, Bird: 0.35
+Speech: 0.44, Bird: 0.39
+Computer keyboard: 0.50, Speech: 0.33, Bird: 0.21
+Speech: 0.40, Bird: 0.33
+Computer keyboard: 0.63, Speech: 0.30
+Speech: 0.41, Bird: 0.22
+Bird: 0.40, Speech: 0.24
+Speech: 0.40, Bird: 0.30
+Speech: 0.38, Bird: 0.27
+Speech: 0.36, Bird: 0.32
+Speech: 0.44, Bird: 0.35
+Speech: 0.37, Bird: 0.37
+Speech: 0.39, Bird: 0.31
+Speech: 0.29
+Speech: 0.43, Bird: 0.39
+Speech: 0.46, Bird: 0.36
+Speech: 0.43, Bird: 0.31
+Speech: 0.39, Bird: 0.34
+Speech: 0.44, Bird: 0.34
+Speech: 0.38, Bird: 0.34
+Computer keyboard: 0.29, Speech: 0.22
+Bird: 0.37, Speech: 0.36
+Speech: 0.44, Bird: 0.31
+Speech: 0.40, Bird: 0.32
+Speech: 0.32, Bird: 0.24
+Speech: 0.37, Bird: 0.28
+Speech: 0.31
+Computer keyboard: 0.28, Speech: 0.27
+Computer keyboard: 0.49, Bird: 0.24, Speech: 0.23
+Speech: 0.32, Bird: 0.21
+Computer keyboard: 0.57
+Computer keyboard: 0.73, Speech: 0.30
+Speech: 0.34, Bird: 0.28
+Computer keyboard: 0.62
+Computer keyboard: 0.53, Speech: 0.24
+Computer keyboard: 0.87, Speech: 0.34
+Speech: 0.37, Bird: 0.23
+Speech: 0.35, Bird: 0.29
+Speech: 0.46, Bird: 0.40
+Speech: 0.37, Bird: 0.35
+Speech: 0.31, Bird: 0.21
+Speech: 0.36, Bird: 0.28
+Computer keyboard: 0.31, Speech: 0.22, Bird: 0.22
+Bird: 0.41, Speech: 0.29
+Speech: 0.24, Computer keyboard: 0.23
+Computer keyboard: 0.91, Speech: 0.27
+Computer keyboard: 0.73, Speech: 0.38, Bird: 0.23
+Speech: 0.25, Bird: 0.23
+Bird: 0.38, Speech: 0.24
+Speech: 0.30, Computer keyboard: 0.29, Bird: 0.20
+Computer keyboard: 0.23
+Bird: 0.30, Speech: 0.27
+Speech: 0.37, Bird: 0.25
+Speech: 0.28, Computer keyboard: 0.26, Bird: 0.23
+Computer keyboard: 0.57, Speech: 0.25, Bird: 0.22
+Speech: 0.38, Bird: 0.27
+Computer keyboard: 0.97, Speech: 0.25
+Speech: 0.42, Bird: 0.33
+Computer keyboard: 0.37, Speech: 0.29
+Speech: 0.42, Computer keyboard: 0.28, Bird: 0.21
+Computer keyboard: 0.59, Speech: 0.36, Bird: 0.26
+Speech: 0.35, Bird: 0.31
+Speech: 0.42, Bird: 0.34
+Bird: 0.40, Speech: 0.36
+Speech: 0.50, Bird: 0.34
+Speech: 0.38, Bird: 0.35
+Speech: 0.44, Bird: 0.34
+Speech: 0.39, Bird: 0.31
+Computer keyboard: 0.88, Speech: 0.26
+Speech: 0.44, Bird: 0.23
+Speech: 0.45, Bird: 0.35
+Speech: 0.42, Bird: 0.23
+Speech: 0.38, Bird: 0.30
+Speech: 0.39, Bird: 0.23
+Speech: 0.40, Bird: 0.37
+Computer keyboard: 0.56, Speech: 0.36
+Speech: 0.31, Bird: 0.24
+Speech: 0.37, Bird: 0.25
+Computer keyboard: 0.44, Speech: 0.35, Bird: 0.35
+Computer keyboard: 0.93, Speech: 0.27
+Speech: 0.44, Bird: 0.37
+Bird: 0.26, Computer keyboard: 0.26, Speech: 0.24
+Speech: 0.41, Bird: 0.34
+Speech: 0.30, Bird: 0.29, Computer keyboard: 0.26
+Computer keyboard: 0.60, Speech: 0.23
+Computer keyboard: 0.79, Speech: 0.35
+Computer keyboard: 0.84, Speech: 0.26
+Speech: 0.33, Bird: 0.26, Computer keyboard: 0.21
+Computer keyboard: 0.51, Speech: 0.27
+Computer keyboard: 0.39, Speech: 0.32, Bird: 0.23
+Bird: 0.40, Speech: 0.39
+Speech: 0.28
+Speech: 0.41, Bird: 0.35
+Computer keyboard: 0.83, Speech: 0.22
+Speech: 0.40, Bird: 0.35
+Speech: 0.34, Bird: 0.27
+Bird: 0.31, Speech: 0.27
+Speech: 0.44, Bird: 0.34
+Speech: 0.41, Bird: 0.34
+Speech: 0.37, Bird: 0.32
+Computer keyboard: 0.53, Speech: 0.37, Bird: 0.21
+Speech: 0.39, Bird: 0.28
+Speech: 0.44, Bird: 0.21
+Computer keyboard: 0.79, Speech: 0.25
+Speech: 0.24, Bird: 0.21
+Speech: 0.41, Bird: 0.30
+Speech: 0.35, Bird: 0.32
+Speech: 0.36, Bird: 0.29
+Speech: 0.39, Bird: 0.31
+Speech: 0.45, Bird: 0.39
+Bird: 0.39, Speech: 0.38
+Speech: 0.31, Bird: 0.26
+Computer keyboard: 0.80, Speech: 0.28
+Bird: 0.37, Speech: 0.35
+Computer keyboard: 0.56, Speech: 0.28
+Speech: 0.42, Bird: 0.33
+Speech: 0.39, Bird: 0.38
+Speech: 0.40, Bird: 0.29
+Bird: 0.29, Speech: 0.21
+Speech: 0.24
+Speech: 0.39, Bird: 0.29
+Computer keyboard: 0.78, Speech: 0.43
+Computer keyboard: 0.40, Speech: 0.38, Bird: 0.20
+Speech: 0.36
+Speech: 0.30, Bird: 0.22
+Speech: 0.29, Bird: 0.26
+Speech: 0.36, Bird: 0.26
+Speech: 0.42, Computer keyboard: 0.28
+Speech: 0.38, Bird: 0.33
+Speech: 0.42, Bird: 0.41
+Speech: 0.40, Bird: 0.36
+Speech: 0.44, Bird: 0.32
+Computer keyboard: 0.54, Speech: 0.27
+Computer keyboard: 0.76, Speech: 0.28
+Computer keyboard: 0.49, Speech: 0.29
+Speech: 0.25
+Bird: 0.38, Speech: 0.24
+Speech: 0.32, Bird: 0.30
+Bird: 0.23, Speech: 0.23
+Speech: 0.27
+Speech: 0.30, Computer keyboard: 0.30, Bird: 0.24
+Computer keyboard: 0.91, Speech: 0.30
+Speech: 0.37, Bird: 0.24
+Computer keyboard: 0.35
+Speech: 0.26, Bird: 0.23
+Computer keyboard: 0.79
+Computer keyboard: 0.25, Speech: 0.21
+Bird: 0.31, Speech: 0.23
+Speech: 0.33, Bird: 0.29
+Bird: 0.29, Speech: 0.29
+Speech: 0.38, Bird: 0.22
+Computer keyboard: 0.83, Speech: 0.24
+Computer keyboard: 0.95, Speech: 0.25
+Computer keyboard: 0.86
+Computer keyboard: 0.68, Speech: 0.33
+Speech: 0.44, Bird: 0.32
+Speech: 0.33, Bird: 0.26, Computer keyboard: 0.25
+Speech: 0.32, Bird: 0.20
+Speech: 0.41, Bird: 0.35
+Speech: 0.39, Bird: 0.30
+Bird: 0.23, Speech: 0.22
+Computer keyboard: 0.91
+Computer keyboard: 0.83, Speech: 0.25
+Computer keyboard: 0.77, Speech: 0.22
+Computer keyboard: 0.83, Speech: 0.31
+Computer keyboard: 0.72, Speech: 0.24
+Computer keyboard: 0.34, Speech: 0.27, Bird: 0.27
+Computer keyboard: 0.89, Speech: 0.36
+Computer keyboard: 0.33, Speech: 0.32
+Computer keyboard: 0.47, Speech: 0.21
+Computer keyboard: 0.81
+Computer keyboard: 0.60, Speech: 0.30
+Computer keyboard: 0.61, Speech: 0.24
+Computer keyboard: 0.78, Speech: 0.27
+Computer keyboard: 0.56, Speech: 0.26, Bird: 0.21
+Speech: 0.35, Bird: 0.28, Computer keyboard: 0.23
+Computer keyboard: 0.77, Speech: 0.27, Bird: 0.21
+Speech: 0.31, Computer keyboard: 0.30
+Computer keyboard: 0.88, Speech: 0.22
+Bird: 0.42, Speech: 0.39
+Bird: 0.40, Speech: 0.38
+Speech: 0.35, Bird: 0.27
+Speech: 0.42, Bird: 0.28
+Computer keyboard: 0.65, Speech: 0.25, Bird: 0.23
+Computer keyboard: 0.76, Speech: 0.26
+Computer keyboard: 0.86, Speech: 0.35
+Computer keyboard: 0.91, Speech: 0.23
+Computer keyboard: 0.53, Speech: 0.25
+Computer keyboard: 0.81, Speech: 0.34
+Computer keyboard: 0.85, Speech: 0.36
+Speech: 0.32, Computer keyboard: 0.31, Bird: 0.21
+Computer keyboard: 0.64, Speech: 0.28
+Computer keyboard: 0.28
+Bird: 0.38, Speech: 0.33
+Speech: 0.43, Bird: 0.33
+Speech: 0.37, Bird: 0.27
+Speech: 0.45, Bird: 0.31
+Speech: 0.31, Bird: 0.29, Computer keyboard: 0.25
+Computer keyboard: 0.65, Speech: 0.29
+Speech: 0.41, Bird: 0.25
+Speech: 0.37, Bird: 0.33
+Computer keyboard: 0.90, Speech: 0.23
+Bird: 0.30, Speech: 0.28
+Speech: 0.40, Bird: 0.38
+Speech: 0.38, Bird: 0.33
+Speech: 0.44, Bird: 0.33
+Speech: 0.43, Bird: 0.28
+Speech: 0.43, Bird: 0.31
+Speech: 0.38, Bird: 0.34
+Computer keyboard: 0.97, Speech: 0.25
+Computer keyboard: 0.94, Speech: 0.33
+Computer keyboard: 0.87, Speech: 0.25
+Computer keyboard: 0.74, Speech: 0.27
+Computer keyboard: 0.93
+Computer keyboard: 0.97, Speech: 0.27
+Speech: 0.27, Bird: 0.22
+Speech: 0.41, Bird: 0.33
+Speech: 0.41, Bird: 0.30
+Speech: 0.33, Bird: 0.30
+Speech: 0.35, Bird: 0.28
+Speech: 0.28, Bird: 0.27
+Speech: 0.38, Bird: 0.34
+Speech: 0.40, Bird: 0.30
+Speech: 0.42, Bird: 0.39
+Speech: 0.41, Bird: 0.36
+Computer keyboard: 0.88, Speech: 0.34
+Bird: 0.42, Speech: 0.31
+Speech: 0.43, Bird: 0.38
+Bird: 0.40, Speech: 0.37
+Speech: 0.38, Bird: 0.33
+Bird: 0.37, Speech: 0.35
+Speech: 0.28, Bird: 0.27
+Speech: 0.38, Bird: 0.33
+Speech: 0.38, Bird: 0.37
+Speech: 0.34, Bird: 0.26
+Speech: 0.40, Bird: 0.30, Computer keyboard: 0.21
+Computer keyboard: 0.47, Speech: 0.36
+Bird: 0.41, Speech: 0.35
+Speech: 0.32
+Bird: 0.44, Speech: 0.33
+Computer keyboard: 0.44, Speech: 0.38, Bird: 0.22
+Bird: 0.37, Speech: 0.36
+Bird: 0.42, Speech: 0.41
+Speech: 0.41, Bird: 0.38
+Speech: 0.44, Bird: 0.34
+Speech: 0.38, Bird: 0.27
+Computer keyboard: 0.38, Speech: 0.34, Bird: 0.23
+Speech: 0.41, Bird: 0.39
+Speech: 0.25, Bird: 0.21
+Bird: 0.22
+Speech: 0.31, Bird: 0.25
+Speech: 0.40, Bird: 0.29
+Speech: 0.39, Bird: 0.34
+Speech: 0.36, Bird: 0.26, Computer keyboard: 0.26
+Computer keyboard: 0.34, Speech: 0.30, Bird: 0.22
+Speech: 0.40, Bird: 0.27
+Speech: 0.39, Bird: 0.24
+Speech: 0.37, Bird: 0.27
+Speech: 0.39, Bird: 0.23
+Speech: 0.46, Computer keyboard: 0.30, Bird: 0.26
+Computer keyboard: 0.50, Speech: 0.24
+Speech: 0.39, Bird: 0.33
+Speech: 0.34, Bird: 0.26
+Speech: 0.40, Bird: 0.35
+Speech: 0.39, Bird: 0.25
+Computer keyboard: 0.47, Speech: 0.30, Bird: 0.22
+Speech: 0.30, Bird: 0.22
+Computer keyboard: 0.41, Speech: 0.37, Bird: 0.27
+Speech: 0.25, Computer keyboard: 0.23
+Speech: 0.27, Bird: 0.21
+Speech: 0.31, Bird: 0.26
+Speech: 0.41, Bird: 0.26
+Speech: 0.32, Bird: 0.30
+Computer keyboard: 0.68, Speech: 0.26
+Speech: 0.32, Bird: 0.22
+Speech: 0.32, Bird: 0.25
+Computer keyboard: 0.27, Speech: 0.24
+Bird: 0.30, Speech: 0.25
+Bird: 0.30, Speech: 0.24
+Bird: 0.39, Speech: 0.36
+Speech: 0.43, Bird: 0.33
+Speech: 0.44, Bird: 0.35
+Speech: 0.31, Bird: 0.30
+Speech: 0.37, Bird: 0.26
+Speech: 0.35, Bird: 0.34
+Speech: 0.39, Bird: 0.29
+Speech: 0.35, Bird: 0.29
+Computer keyboard: 0.55, Speech: 0.21
+Speech: 0.37, Bird: 0.22
+Speech: 0.43, Bird: 0.34
+Speech: 0.34, Bird: 0.27
+Computer keyboard: 0.58, Speech: 0.26
+Speech: 0.42, Bird: 0.33
+Speech: 0.23
+Speech: 0.42, Bird: 0.32
+Speech: 0.42, Bird: 0.37
+Speech: 0.36, Bird: 0.31
+Speech: 0.38, Bird: 0.35
+Speech: 0.42, Bird: 0.31
+Bird: 0.42, Speech: 0.42
+Bird: 0.28, Speech: 0.27
+Computer keyboard: 0.77, Speech: 0.21
+Computer keyboard: 0.81
+Speech: 0.28, Bird: 0.24
+Speech: 0.39, Bird: 0.34
+Speech: 0.40, Bird: 0.32
+Bird: 0.41, Speech: 0.35
+Speech: 0.42, Bird: 0.36
+Speech: 0.43, Bird: 0.26
+Speech: 0.37, Bird: 0.33
+Speech: 0.38, Bird: 0.29
+Speech: 0.33, Bird: 0.25
+Speech: 0.42, Bird: 0.34
+Speech: 0.44, Bird: 0.34
+Speech: 0.40, Bird: 0.31
+Speech: 0.23, Bird: 0.22
+Speech: 0.20
+Speech: 0.44, Bird: 0.36
+Computer keyboard: 0.74, Speech: 0.30
+Bird: 0.30, Speech: 0.29
+Speech: 0.42, Bird: 0.30
+Speech: 0.34, Bird: 0.22
+Speech: 0.32, Bird: 0.23
+Speech: 0.42, Bird: 0.30
+Speech: 0.42, Bird: 0.31
+Speech: 0.39, Bird: 0.28
+Speech: 0.40, Bird: 0.38
+Bird: 0.44, Speech: 0.39
+Speech: 0.36, Bird: 0.25
+Speech: 0.37, Bird: 0.29
+Speech: 0.27, Bird: 0.24
+Speech: 0.35
+Speech: 0.36, Bird: 0.30
+Computer keyboard: 0.30, Speech: 0.22
+Speech: 0.33, Bird: 0.22
+Speech: 0.28, Bird: 0.25
+Bird: 0.31, Speech: 0.29
+Computer keyboard: 0.48, Speech: 0.29, Bird: 0.23
+Computer keyboard: 0.74, Speech: 0.29
+Speech: 0.46, Bird: 0.32
+Speech: 0.39, Bird: 0.27
+
+Speech: 0.32, Bird: 0.21
+Speech: 0.39, Bird: 0.31
+Speech: 0.40, Bird: 0.35
+Bird: 0.34, Speech: 0.32
+
+Bird: 0.31, Speech: 0.27
+Speech: 0.47, Bird: 0.39
+Bird: 0.38, Speech: 0.36
+Computer keyboard: 0.84, Speech: 0.23
+Computer keyboard: 0.53, Speech: 0.26
+Computer keyboard: 0.32, Speech: 0.29, Bird: 0.21
+Speech: 0.38, Bird: 0.29
+Speech: 0.42, Bird: 0.30
+Bird: 0.44, Speech: 0.30
+Speech: 0.40, Bird: 0.29
+Bird: 0.49, Speech: 0.43
+Bird: 0.43, Speech: 0.23
+Speech: 0.37, Bird: 0.36
+Speech: 0.37, Bird: 0.34
+Speech: 0.44, Bird: 0.30
+Speech: 0.31, Computer keyboard: 0.22
+Speech: 0.36, Bird: 0.30
+Speech: 0.33, Bird: 0.27
+Speech: 0.30, Bird: 0.29
+Speech: 0.27, Bird: 0.25
+Bird: 0.37, Speech: 0.35
+Speech: 0.31, Bird: 0.23
+Speech: 0.27, Bird: 0.22
+Speech: 0.29, Bird: 0.21
+Speech: 0.35, Computer keyboard: 0.25
+Computer keyboard: 0.29, Speech: 0.27
+Speech: 0.36, Bird: 0.31
+Speech: 0.34, Bird: 0.29
+Speech: 0.41, Bird: 0.35
+Speech: 0.48, Bird: 0.27
+Speech: 0.31, Bird: 0.29
+Computer keyboard: 0.73, Speech: 0.27
+Computer keyboard: 0.93, Speech: 0.24
+Speech: 0.30
+Computer keyboard: 0.68, Speech: 0.32, Bird: 0.23
+Computer keyboard: 0.44, Speech: 0.32, Bird: 0.27
+Computer keyboard: 0.56, Speech: 0.33
+Computer keyboard: 0.67
+Speech: 0.34, Bird: 0.31
+Speech: 0.39, Bird: 0.30
+Computer keyboard: 0.80, Speech: 0.24
+Computer keyboard: 0.74, Speech: 0.31
+Computer keyboard: 0.94, Speech: 0.21
+Speech: 0.37, Computer keyboard: 0.34, Bird: 0.23
+Speech: 0.30, Bird: 0.24
+Speech: 0.43, Bird: 0.33
+Speech: 0.44, Bird: 0.27
+Computer keyboard: 0.72, Speech: 0.37
+Speech: 0.41, Bird: 0.32
+Speech: 0.42, Bird: 0.26
+Speech: 0.38, Bird: 0.29
+Speech: 0.37, Bird: 0.26
+Speech: 0.39, Bird: 0.31
+Speech: 0.41, Bird: 0.34
+Speech: 0.40, Bird: 0.24
+Speech: 0.41, Bird: 0.32
+Speech: 0.35, Bird: 0.24
+Computer keyboard: 0.44, Speech: 0.26
+Computer keyboard: 0.43, Speech: 0.25, Bird: 0.22
+Computer keyboard: 0.44
+Speech: 0.46, Bird: 0.32
+Speech: 0.36, Bird: 0.28
+Speech: 0.41, Bird: 0.39
+Speech: 0.34, Bird: 0.30
+Speech: 0.31, Bird: 0.24
+Speech: 0.24, Bird: 0.23
+Speech: 0.46, Bird: 0.38
+Speech: 0.39, Bird: 0.32
+Speech: 0.41, Bird: 0.24
+Speech: 0.39, Bird: 0.25
+Bird: 0.35, Speech: 0.26
+Speech: 0.29, Computer keyboard: 0.29
+Speech: 0.36, Bird: 0.32
+Speech: 0.39, Bird: 0.34
+Speech: 0.43, Bird: 0.28
+Speech: 0.41, Bird: 0.29
+Speech: 0.38, Bird: 0.24
+Speech: 0.44, Bird: 0.40
+Speech: 0.48, Bird: 0.39
+Bird: 0.32, Speech: 0.30
+Speech: 0.47, Bird: 0.32
+Speech: 0.39, Bird: 0.29
+Speech: 0.43, Bird: 0.35
+Speech: 0.42, Bird: 0.35
+Speech: 0.39, Bird: 0.28
+Speech: 0.40, Bird: 0.31
+Speech: 0.45, Bird: 0.38
+Bird: 0.30, Speech: 0.24
+Speech: 0.39, Bird: 0.31
+Speech: 0.36, Bird: 0.33
+Speech: 0.31, Bird: 0.24
+Speech: 0.42, Bird: 0.34
+Speech: 0.40, Bird: 0.31
+Bird: 0.30, Speech: 0.25
+Computer keyboard: 0.49, Speech: 0.26, Bird: 0.22
+Computer keyboard: 0.43, Speech: 0.28, Bird: 0.23
+Speech: 0.41, Bird: 0.27
+Speech: 0.42, Bird: 0.28
+Speech: 0.42, Bird: 0.30
+Speech: 0.40, Bird: 0.25
+Speech: 0.44, Bird: 0.34
+Speech: 0.41, Bird: 0.32
+Speech: 0.42, Bird: 0.36
+Speech: 0.36, Bird: 0.25
+Computer keyboard: 0.41, Speech: 0.28, Bird: 0.24
+Computer keyboard: 0.90, Speech: 0.36
+Speech: 0.35, Bird: 0.28
+Bird: 0.38, Speech: 0.38
+Bird: 0.41, Speech: 0.39
+Speech: 0.45, Bird: 0.30
+Speech: 0.36
+Speech: 0.39, Bird: 0.30
+Speech: 0.28
+Speech: 0.28, Bird: 0.25
+Speech: 0.30
+Speech: 0.30
+Computer keyboard: 0.47, Speech: 0.39
+Speech: 0.40, Bird: 0.31
+Computer keyboard: 0.68, Speech: 0.23
+Computer keyboard: 0.65, Speech: 0.27
+Computer keyboard: 0.26
+Computer keyboard: 0.65, Speech: 0.28
+Computer keyboard: 0.32, Speech: 0.29, Bird: 0.22
+Speech: 0.35, Bird: 0.31
+Speech: 0.30, Bird: 0.23, Computer keyboard: 0.21
+Computer keyboard: 0.34, Speech: 0.26, Bird: 0.21
+Computer keyboard: 0.89, Speech: 0.24
+Computer keyboard: 0.65, Speech: 0.21
+Computer keyboard: 0.89
+Computer keyboard: 0.38, Speech: 0.32, Bird: 0.22
+Speech: 0.43, Bird: 0.22
+Bird: 0.34, Speech: 0.34
+Speech: 0.34, Bird: 0.25
+Speech: 0.37, Bird: 0.27
+Computer keyboard: 0.28
+Computer keyboard: 0.67, Speech: 0.22
+Computer keyboard: 0.76, Speech: 0.29, Bird: 0.23
+Computer keyboard: 0.96, Speech: 0.31
+Computer keyboard: 0.63, Speech: 0.33
+Speech: 0.25
+Speech: 0.25, Computer keyboard: 0.23
+Speech: 0.47, Bird: 0.31
+Speech: 0.39, Bird: 0.31
+Speech: 0.41, Bird: 0.32
+Computer keyboard: 0.88, Speech: 0.27
+Computer keyboard: 0.35, Speech: 0.32
+Bird: 0.34, Speech: 0.31
+Speech: 0.42, Bird: 0.31
+Speech: 0.40, Bird: 0.35
+Speech: 0.39, Bird: 0.36
+Speech: 0.41, Bird: 0.39
+Speech: 0.34, Bird: 0.30
+Speech: 0.33, Computer keyboard: 0.26, Bird: 0.22
+Speech: 0.41, Bird: 0.32
+Bird: 0.37, Speech: 0.32
+Speech: 0.29, Bird: 0.26
+Speech: 0.41, Bird: 0.27
+Speech: 0.42, Bird: 0.35
+Speech: 0.35, Bird: 0.31
+Speech: 0.38, Bird: 0.36
+Speech: 0.43, Bird: 0.38
+Speech: 0.38, Bird: 0.25
+Speech: 0.34, Bird: 0.26
+Speech: 0.23
+Computer keyboard: 0.31, Speech: 0.22
+Speech: 0.44, Bird: 0.30
+Speech: 0.47, Bird: 0.26
+Speech: 0.35, Bird: 0.20
+Computer keyboard: 0.54, Speech: 0.25
+Speech: 0.37, Bird: 0.29
+Speech: 0.47, Bird: 0.32
+Speech: 0.33, Bird: 0.30
+Speech: 0.39, Bird: 0.23, Computer keyboard: 0.21
+Speech: 0.33, Bird: 0.30
+Speech: 0.39, Bird: 0.21
+Speech: 0.32, Bird: 0.29
+Bird: 0.32, Speech: 0.31
+Speech: 0.37, Bird: 0.31
+Speech: 0.26, Computer keyboard: 0.26
+Speech: 0.38, Bird: 0.32
+Bird: 0.39, Speech: 0.35
+Bird: 0.43, Speech: 0.40
+Speech: 0.42, Bird: 0.37
+Bird: 0.40, Speech: 0.40
+Speech: 0.44, Bird: 0.39
+Speech: 0.43, Bird: 0.41
+Computer keyboard: 0.43, Speech: 0.31, Bird: 0.21
+Speech: 0.36, Bird: 0.23
+Speech: 0.38, Bird: 0.21
+Computer keyboard: 0.89, Speech: 0.30
+Computer keyboard: 0.45, Speech: 0.32
+Speech: 0.43, Bird: 0.32
+Speech: 0.36, Bird: 0.31
+Speech: 0.34, Bird: 0.25
+Speech: 0.33, Bird: 0.29
+Speech: 0.37, Bird: 0.31
+Speech: 0.42, Bird: 0.28
+Speech: 0.38, Bird: 0.25
+Speech: 0.39, Bird: 0.31
+Computer keyboard: 0.65, Speech: 0.29
+Computer keyboard: 0.43, Speech: 0.27
+Computer keyboard: 0.84, Speech: 0.34
+Computer keyboard: 0.54, Speech: 0.29, Bird: 0.27
+Computer keyboard: 0.93, Speech: 0.22
+Computer keyboard: 0.39, Speech: 0.39, Bird: 0.31
+Bird: 0.33, Speech: 0.32
+Computer keyboard: 0.78, Speech: 0.24
+Computer keyboard: 0.53, Speech: 0.33, Bird: 0.22
+Computer keyboard: 0.40, Speech: 0.32, Bird: 0.25
+Bird: 0.32, Speech: 0.29
+Computer keyboard: 0.34, Speech: 0.31, Bird: 0.27
+Computer keyboard: 0.81, Speech: 0.31
+Computer keyboard: 0.59, Speech: 0.29, Bird: 0.24
+Computer keyboard: 0.84, Speech: 0.25
+Computer keyboard: 0.57, Speech: 0.28
+Speech: 0.42, Bird: 0.37
+Speech: 0.35, Bird: 0.24
+Speech: 0.35, Bird: 0.25
+Speech: 0.37, Bird: 0.34
+Speech: 0.34, Computer keyboard: 0.32, Bird: 0.28
+Speech: 0.32
+Speech: 0.34, Bird: 0.30
+Speech: 0.49, Bird: 0.39
+Computer keyboard: 0.60, Speech: 0.23
+Speech: 0.26, Computer keyboard: 0.24
+Speech: 0.42, Bird: 0.26
+Speech: 0.40, Bird: 0.31
+Speech: 0.43, Bird: 0.36
+Speech: 0.45, Bird: 0.35
+Speech: 0.39, Bird: 0.21
+Speech: 0.47, Bird: 0.35
+Speech: 0.30, Bird: 0.23
+Speech: 0.44, Bird: 0.33
+Speech: 0.42, Bird: 0.32
+Speech: 0.44, Bird: 0.27
+Speech: 0.46, Bird: 0.38
+Speech: 0.44, Bird: 0.29
+Speech: 0.36, Bird: 0.29
+Computer keyboard: 0.69, Speech: 0.32, Bird: 0.27
+Speech: 0.37, Bird: 0.23, Computer keyboard: 0.23
+Computer keyboard: 0.47, Speech: 0.35
+Speech: 0.33, Computer keyboard: 0.29, Bird: 0.28
+Speech: 0.25
+Computer keyboard: 0.70, Speech: 0.26
+Speech: 0.33, Computer keyboard: 0.24, Bird: 0.23
+Speech: 0.36, Bird: 0.26
+Bird: 0.31, Speech: 0.29
+Computer keyboard: 0.34, Speech: 0.29, Bird: 0.26
+Speech: 0.33, Bird: 0.24
+Computer keyboard: 0.78, Speech: 0.29
+Computer keyboard: 0.77
+Computer keyboard: 0.53, Speech: 0.37
+Bird: 0.34, Speech: 0.32
+Speech: 0.45, Bird: 0.38
+Speech: 0.46, Bird: 0.42
+Speech: 0.27, Computer keyboard: 0.26
+Speech: 0.26
+Speech: 0.32, Bird: 0.26
+Speech: 0.37, Computer keyboard: 0.31, Bird: 0.28
+Computer keyboard: 0.35, Speech: 0.32, Bird: 0.20
+Computer keyboard: 0.88, Speech: 0.41, Bird: 0.22
+Computer keyboard: 0.41, Speech: 0.23
+Computer keyboard: 0.69, Speech: 0.32, Bird: 0.22
+Computer keyboard: 0.69, Speech: 0.28
+Computer keyboard: 0.81, Speech: 0.31
+Speech: 0.40, Computer keyboard: 0.29, Bird: 0.23
+Computer keyboard: 0.88, Speech: 0.21
+Speech: 0.39, Bird: 0.21
+Speech: 0.41, Bird: 0.39
+Speech: 0.29
+Speech: 0.32, Bird: 0.25
+Speech: 0.32, Bird: 0.30
+Speech: 0.33, Bird: 0.22
+Speech: 0.31, Bird: 0.29
+Speech: 0.37, Bird: 0.32
+Speech: 0.36, Bird: 0.25
+Speech: 0.39, Bird: 0.29
+Speech: 0.37, Bird: 0.33
+Speech: 0.24
+
+Speech: 0.35, Bird: 0.33
+Speech: 0.22
+Speech: 0.40, Bird: 0.30
+Speech: 0.34, Bird: 0.21
+Speech: 0.30, Computer keyboard: 0.26
+Speech: 0.40, Bird: 0.30
+Speech: 0.53, Bird: 0.32
+Speech: 0.32, Bird: 0.21
+Speech: 0.41, Bird: 0.36
+Speech: 0.40, Bird: 0.30
+Computer keyboard: 0.51, Speech: 0.28
+Computer keyboard: 0.89, Speech: 0.24
+Computer keyboard: 0.25, Speech: 0.23, Bird: 0.21
+Speech: 0.36, Bird: 0.27
+Speech: 0.27, Bird: 0.26
+Speech: 0.30, Bird: 0.25
+Speech: 0.40, Bird: 0.25
+Computer keyboard: 0.71, Speech: 0.32
+Bird: 0.27
+Computer keyboard: 0.33, Speech: 0.27
+Speech: 0.43, Bird: 0.28
+Speech: 0.40, Bird: 0.29
+Speech: 0.45, Bird: 0.31
+Speech: 0.42, Bird: 0.28
+Speech: 0.23, Bird: 0.21
+Speech: 0.43, Bird: 0.41
+Speech: 0.38, Bird: 0.28
+Speech: 0.26, Computer keyboard: 0.21
+Speech: 0.33, Bird: 0.21
+Speech: 0.37, Bird: 0.24
+Speech: 0.31, Bird: 0.23
+Speech: 0.42, Bird: 0.29
+Speech: 0.39, Bird: 0.30
+Speech: 0.33
+Speech: 0.41, Bird: 0.30
+Speech: 0.40, Bird: 0.29
+Speech: 0.40, Bird: 0.27
+Bird: 0.38, Speech: 0.37
+Speech: 0.41, Bird: 0.31
+Speech: 0.43, Bird: 0.29
+Speech: 0.42, Bird: 0.38
+Speech: 0.39, Bird: 0.35
+Speech: 0.40, Bird: 0.32
+Speech: 0.44, Bird: 0.36
+Speech: 0.32, Bird: 0.31
+Bird: 0.33, Speech: 0.24
+Speech: 0.34, Bird: 0.22
+Speech: 0.40, Bird: 0.34
+Speech: 0.30, Bird: 0.25
+Speech: 0.25
+Computer keyboard: 0.61, Speech: 0.29
+Speech: 0.20
+Bird: 0.34, Speech: 0.34
+Speech: 0.34, Bird: 0.33
+Speech: 0.30, Bird: 0.24
+Speech: 0.45, Bird: 0.31
+Speech: 0.48, Bird: 0.36
+Speech: 0.36, Bird: 0.26
+Speech: 0.44, Bird: 0.36
+Bird: 0.31, Speech: 0.30
+Speech: 0.41, Bird: 0.34
+Speech: 0.39, Bird: 0.34
+Speech: 0.38, Bird: 0.24
+Speech: 0.27, Bird: 0.25
+Bird: 0.33, Speech: 0.26
+Speech: 0.26, Bird: 0.24
+
+
+
+Bird: 0.22
+
+
+Speech: 0.31, Bird: 0.23
+Speech: 0.36, Bird: 0.25
+Speech: 0.39, Bird: 0.32
+Speech: 0.35, Bird: 0.28
+
+Speech: 0.32, Bird: 0.25
+Speech: 0.23, Bird: 0.23
+Bird: 0.26, Speech: 0.26
+Speech: 0.39, Bird: 0.32
+Speech: 0.45, Bird: 0.40
+Speech: 0.42, Bird: 0.28
+Speech: 0.44, Bird: 0.30
+Speech: 0.42, Bird: 0.29
+Speech: 0.42, Bird: 0.33
+Speech: 0.41, Bird: 0.24
+Speech: 0.42, Bird: 0.25
+Speech: 0.38, Bird: 0.29
+Speech: 0.41, Bird: 0.29
+Speech: 0.36, Bird: 0.29
+Speech: 0.26
+Speech: 0.44, Bird: 0.24
+Speech: 0.44, Bird: 0.33
+Speech: 0.43, Bird: 0.31
+Speech: 0.40, Bird: 0.30
+Speech: 0.39, Bird: 0.31
+Speech: 0.39, Bird: 0.29
+Speech: 0.38, Bird: 0.30
+Speech: 0.36, Bird: 0.26
+Speech: 0.36, Bird: 0.33
+Speech: 0.39, Bird: 0.30
+Speech: 0.41, Bird: 0.26
+Speech: 0.43, Bird: 0.29
+Speech: 0.43, Bird: 0.30
+Speech: 0.40, Bird: 0.27
+Speech: 0.38, Bird: 0.25
+Speech: 0.43, Bird: 0.26
+Speech: 0.33, Bird: 0.22
+Speech: 0.25, Bird: 0.24
+Speech: 0.31, Bird: 0.23
+Speech: 0.33
+Speech: 0.40, Bird: 0.22
+Speech: 0.36, Bird: 0.20
+Speech: 0.40, Bird: 0.23
+Speech: 0.43, Bird: 0.33
+Speech: 0.33
+Speech: 0.37, Bird: 0.31
+Speech: 0.38, Bird: 0.26
+Speech: 0.42, Bird: 0.33
+Speech: 0.39, Bird: 0.27
+Speech: 0.39, Bird: 0.31
+Speech: 0.43, Bird: 0.28
+Speech: 0.40, Bird: 0.31
+Speech: 0.37, Bird: 0.34
+Speech: 0.43, Bird: 0.40
+Speech: 0.40, Bird: 0.29
+Speech: 0.42, Bird: 0.28
+Speech: 0.43, Bird: 0.29
+Speech: 0.41, Bird: 0.36
+Speech: 0.41, Bird: 0.30
+Speech: 0.39, Bird: 0.28
+Speech: 0.40, Bird: 0.30
+Speech: 0.42, Bird: 0.31
+Speech: 0.38, Bird: 0.32
+Speech: 0.36, Bird: 0.25
+Speech: 0.38, Bird: 0.32
+Speech: 0.24, Bird: 0.22
+Singing: 0.21
+Singing: 0.20
+
+
+Bird: 0.22
+Speech: 0.23
+
+Bird: 0.34, Speech: 0.30
+Speech: 0.26
+Bird: 0.35, Speech: 0.33
+Speech: 0.41, Bird: 0.32
+Speech: 0.28, Bird: 0.23
+Bird: 0.44, Speech: 0.38
+Bird: 0.47, Speech: 0.31
+
+Bird: 0.41, Speech: 0.38
+Speech: 0.37, Bird: 0.32
+Speech: 0.24, Bird: 0.22
+Singing: 0.32
+Speech: 0.32, Bird: 0.25
+Speech: 0.27, Bird: 0.20
+Speech: 0.28, Bird: 0.23
+Bird: 0.44, Speech: 0.33
+Bird: 0.33, Speech: 0.31
+Bird: 0.40, Speech: 0.28, Singing: 0.21
+Singing: 0.23
+Speech: 0.36, Bird: 0.27
+Speech: 0.38, Bird: 0.31
+Speech: 0.37, Bird: 0.28
+Speech: 0.42, Bird: 0.33
+Speech: 0.40, Bird: 0.30
+Speech: 0.36, Bird: 0.25
+Speech: 0.37, Bird: 0.32
+Bird: 0.37, Speech: 0.36
+Speech: 0.37, Bird: 0.36
+Speech: 0.26, Bird: 0.20
+Speech: 0.36, Bird: 0.35
+Bird: 0.45, Speech: 0.40
+Bird: 0.24, Speech: 0.24
+Speech: 0.37, Bird: 0.28
+Speech: 0.39, Bird: 0.30
+Speech: 0.32, Bird: 0.27
+Speech: 0.25, Bird: 0.21
+Speech: 0.20
+Speech: 0.38, Bird: 0.23
+Speech: 0.34, Bird: 0.31
+Speech: 0.32, Bird: 0.22
+Speech: 0.36, Bird: 0.32
+Speech: 0.36, Bird: 0.32
+Speech: 0.40, Bird: 0.31
+Speech: 0.38, Bird: 0.27
+Speech: 0.36, Bird: 0.28
+Bird: 0.27, Speech: 0.20
+Speech: 0.32, Bird: 0.26
+Speech: 0.47, Bird: 0.29
+Computer keyboard: 0.52, Speech: 0.35, Bird: 0.25
+Speech: 0.40, Bird: 0.32
+Speech: 0.29, Bird: 0.21
+Speech: 0.37, Bird: 0.32
+Speech: 0.36, Bird: 0.25
+Computer keyboard: 0.89, Speech: 0.27
+Computer keyboard: 0.93, Speech: 0.35
+Computer keyboard: 0.93, Speech: 0.40
+Computer keyboard: 0.63, Speech: 0.24
+Computer keyboard: 0.83, Speech: 0.25
+Speech: 0.49, Bird: 0.30
+Computer keyboard: 0.90, Speech: 0.36
+Speech: 0.44, Bird: 0.33
+Computer keyboard: 0.91
+Computer keyboard: 0.81, Speech: 0.32
+Computer keyboard: 0.66, Speech: 0.23
+Bird: 0.30, Speech: 0.27
+Speech: 0.36, Bird: 0.27
+Speech: 0.34, Bird: 0.25
+Speech: 0.34, Bird: 0.30
+Speech: 0.37, Bird: 0.27
+Speech: 0.47, Bird: 0.37
+Speech: 0.41, Computer keyboard: 0.33, Bird: 0.22
+Speech: 0.46, Bird: 0.34
+Speech: 0.48, Bird: 0.31
+Computer keyboard: 0.31, Speech: 0.27
+Speech: 0.36, Computer keyboard: 0.24, Bird: 0.22
+Speech: 0.39, Bird: 0.28
+Speech: 0.42, Bird: 0.36
+Speech: 0.36, Computer keyboard: 0.28, Bird: 0.24
+Computer keyboard: 0.81, Speech: 0.29
+Computer keyboard: 0.80, Speech: 0.33
+Computer keyboard: 0.98, Speech: 0.28
+Computer keyboard: 0.98, Speech: 0.30
+Computer keyboard: 0.98, Speech: 0.33
+Computer keyboard: 0.98, Speech: 0.26
+Computer keyboard: 0.75, Speech: 0.35, Bird: 0.22
+Computer keyboard: 0.57, Speech: 0.24
+Speech: 0.26, Bird: 0.22
+Speech: 0.48, Bird: 0.29
+Speech: 0.43, Bird: 0.36
+Speech: 0.39, Bird: 0.27
+Speech: 0.47, Bird: 0.33
+Speech: 0.52, Bird: 0.26
+Speech: 0.48, Computer keyboard: 0.47, Bird: 0.20
+Speech: 0.55, Computer keyboard: 0.37, Bird: 0.24
+Speech: 0.38, Bird: 0.23
+Computer keyboard: 0.39
+Speech: 0.29, Bird: 0.21
+Speech: 0.45, Bird: 0.29
+Speech: 0.40, Bird: 0.31
+Speech: 0.39, Bird: 0.30
+Speech: 0.55, Bird: 0.29
+Speech: 0.65, Bird: 0.45, Singing: 0.24
+Speech: 0.70, Bird: 0.25
+Speech: 0.38
+Speech: 0.57, Singing: 0.22
+Speech: 0.76, Singing: 0.23
+Speech: 0.51, Singing: 0.23
+Speech: 0.71, Bird: 0.27, Singing: 0.21
+Speech: 0.66, Bird: 0.29
+Speech: 0.63, Bird: 0.26
+Speech: 0.81, Bird: 0.39
+Speech: 0.69, Singing: 0.22
+Speech: 0.49
+Speech: 0.44, Singing: 0.29
+Speech: 0.77, Singing: 0.40, Bird: 0.40
+Speech: 0.68, Singing: 0.46
+Speech: 0.73, Singing: 0.30, Bird: 0.22
+Speech: 0.65
+Speech: 0.84, Bird: 0.25
+Speech: 0.85, Singing: 0.30, Bird: 0.29
+Speech: 0.87, Bird: 0.38, Singing: 0.26
+Speech: 0.62, Bird: 0.20
+Speech: 0.55, Bird: 0.21
+Speech: 0.84
+Speech: 0.82, Bird: 0.27
+Speech: 0.80, Singing: 0.24
+Speech: 0.29, Bird: 0.24
+Computer keyboard: 0.78, Speech: 0.27
+Computer keyboard: 0.99, Speech: 0.20
+Computer keyboard: 0.96, Speech: 0.31
+Speech: 0.41, Bird: 0.31
+Speech: 0.41, Bird: 0.40
+Speech: 0.31, Bird: 0.28
+Speech: 0.40, Bird: 0.32
+Speech: 0.37, Bird: 0.28
+Speech: 0.44, Bird: 0.33
+Speech: 0.36, Bird: 0.29
+Speech: 0.40, Bird: 0.28
+Speech: 0.46, Bird: 0.34
+Speech: 0.38, Bird: 0.24, Computer keyboard: 0.21
+Speech: 0.34, Computer keyboard: 0.25, Bird: 0.25
+Speech: 0.37, Bird: 0.27
+Speech: 0.61, Bird: 0.49
+Speech: 0.54, Bird: 0.24
+Speech: 0.47, Bird: 0.27, Computer keyboard: 0.24
+Speech: 0.44, Bird: 0.35
+Speech: 0.42, Bird: 0.33
+Speech: 0.43, Bird: 0.29
+Speech: 0.40, Bird: 0.28
+Speech: 0.34, Bird: 0.29
+Speech: 0.41, Bird: 0.37
+Speech: 0.44, Bird: 0.29
+Speech: 0.42, Bird: 0.32
+Speech: 0.39, Bird: 0.32
+Speech: 0.42, Bird: 0.39
+Bird: 0.32, Speech: 0.31
+Bird: 0.37, Speech: 0.36
+Speech: 0.43, Bird: 0.41
+Speech: 0.37, Bird: 0.36
+Speech: 0.40, Bird: 0.37
+Speech: 0.38, Bird: 0.35
+Bird: 0.40, Speech: 0.31
+Bird: 0.33
+Bird: 0.35, Speech: 0.29
+Bird: 0.34, Speech: 0.32
+Bird: 0.39, Speech: 0.38
+Bird: 0.20
+Speech: 0.22
+Speech: 0.29, Bird: 0.20
+Bird: 0.32, Speech: 0.31
+Speech: 0.40, Bird: 0.28
+Speech: 0.37, Bird: 0.27
+Speech: 0.42, Bird: 0.27
+Speech: 0.44, Bird: 0.26
+Speech: 0.40, Bird: 0.27
+Speech: 0.47, Bird: 0.28
+Speech: 0.42, Bird: 0.28
+Speech: 0.42, Bird: 0.29
+Speech: 0.38, Bird: 0.35
+Speech: 0.40, Bird: 0.29
+Speech: 0.40, Bird: 0.27
+Speech: 0.40, Bird: 0.27
+Speech: 0.39, Bird: 0.29
+Speech: 0.41, Bird: 0.27
+Speech: 0.41, Bird: 0.28
+Speech: 0.41, Bird: 0.26
+Speech: 0.41, Bird: 0.30
+Speech: 0.41, Bird: 0.26
+Speech: 0.40, Bird: 0.25
+Speech: 0.41, Bird: 0.31
+Speech: 0.37, Bird: 0.31
+Speech: 0.37, Bird: 0.26
+Speech: 0.38, Bird: 0.30
+Speech: 0.39, Bird: 0.30
+Speech: 0.39, Bird: 0.28
+Speech: 0.42, Bird: 0.35
+Bird: 0.42, Speech: 0.34
+Speech: 0.36, Bird: 0.36
+Bird: 0.44, Speech: 0.38
+Bird: 0.45, Speech: 0.43
+Bird: 0.52, Speech: 0.43
+Speech: 0.43, Bird: 0.33
+Speech: 0.36, Bird: 0.29
+Speech: 0.34, Bird: 0.26
+Speech: 0.38, Bird: 0.28
+
+Speech: 0.39, Bird: 0.29
+Speech: 0.38, Bird: 0.33
+Speech: 0.39, Bird: 0.35
+Speech: 0.40, Bird: 0.29
+Speech: 0.40, Bird: 0.28
+Speech: 0.42, Bird: 0.31
+Speech: 0.41, Bird: 0.28
+Speech: 0.37, Bird: 0.27
+Speech: 0.38, Bird: 0.25
+Speech: 0.40, Bird: 0.30
+Speech: 0.36, Bird: 0.24
+Speech: 0.38, Bird: 0.28
+Speech: 0.37, Bird: 0.26
+
+Speech: 0.37, Bird: 0.30
+Speech: 0.36, Computer keyboard: 0.34, Bird: 0.23
+Speech: 0.41, Bird: 0.37
+Bird: 0.35, Speech: 0.27
+Speech: 0.39, Bird: 0.35
+Speech: 0.41, Bird: 0.32
+Speech: 0.41, Bird: 0.34
+Speech: 0.34, Bird: 0.29
+Bird: 0.29, Speech: 0.28
+Speech: 0.38, Bird: 0.28
+Computer keyboard: 0.95, Speech: 0.27
+Speech: 0.39, Computer keyboard: 0.23, Bird: 0.22
+Bird: 0.32, Speech: 0.30
+Speech: 0.33, Bird: 0.24
+Computer keyboard: 0.84, Speech: 0.33
+Speech: 0.42, Bird: 0.28
+Speech: 0.35, Bird: 0.35
+Speech: 0.36, Bird: 0.31
+Speech: 0.38, Bird: 0.36
+Speech: 0.41, Bird: 0.34
+Speech: 0.40, Bird: 0.32
+Speech: 0.35, Bird: 0.33
+Speech: 0.47, Bird: 0.37
+Speech: 0.45, Bird: 0.38
+Speech: 0.42, Bird: 0.32
+Speech: 0.43, Bird: 0.31
+Speech: 0.46, Bird: 0.31
+Bird: 0.54, Speech: 0.46
+Bird: 0.42, Speech: 0.40
+Bird: 0.41, Speech: 0.38
+Speech: 0.43, Bird: 0.32
+Speech: 0.46, Bird: 0.32
+Speech: 0.39, Bird: 0.35
+Bird: 0.38, Speech: 0.35
+Speech: 0.38, Bird: 0.31
+Speech: 0.42, Bird: 0.34
+Speech: 0.40, Bird: 0.29
+Speech: 0.34, Bird: 0.28
+Speech: 0.31, Bird: 0.23
+Bird: 0.27, Speech: 0.24
+Speech: 0.31, Bird: 0.25
+Bird: 0.26, Speech: 0.22
+Speech: 0.21
+
+Speech: 0.36, Bird: 0.27
+Speech: 0.24, Bird: 0.22
+Speech: 0.20
+Speech: 0.29, Bird: 0.26
+Speech: 0.44, Bird: 0.30
+Speech: 0.28
+Speech: 0.39, Bird: 0.26
+Speech: 0.40, Bird: 0.29
+Speech: 0.36, Bird: 0.27
+Speech: 0.35, Bird: 0.32
+Speech: 0.33, Bird: 0.25
+Bird: 0.25
+
+Speech: 0.40, Bird: 0.29
+Speech: 0.25, Bird: 0.23
+Speech: 0.44, Bird: 0.31
+Speech: 0.42, Bird: 0.36
+Speech: 0.37, Bird: 0.31
+Speech: 0.40, Bird: 0.32
+Bird: 0.46, Speech: 0.40
+Singing: 0.37
+Bird: 0.39, Speech: 0.20
+Speech: 0.37, Bird: 0.28
+Speech: 0.41, Bird: 0.29
+Speech: 0.42, Bird: 0.30
+Speech: 0.41, Bird: 0.30
+Speech: 0.43, Bird: 0.31
+Speech: 0.40, Bird: 0.32
+Speech: 0.41, Bird: 0.28
+Speech: 0.41, Bird: 0.33
+Speech: 0.42, Bird: 0.28
+Speech: 0.39, Bird: 0.31
+Speech: 0.41, Bird: 0.32
+Speech: 0.43, Bird: 0.31
+Speech: 0.37, Bird: 0.28
+Speech: 0.40, Bird: 0.34
+Speech: 0.42, Bird: 0.32
+Bird: 0.28, Speech: 0.27
+Speech: 0.23
+Speech: 0.39, Bird: 0.32
+Speech: 0.41, Bird: 0.28
+Speech: 0.40, Bird: 0.34
+Speech: 0.46, Bird: 0.36
+Speech: 0.47, Bird: 0.30
+Bird: 0.46, Speech: 0.43
+Speech: 0.46, Bird: 0.35
+Speech: 0.51, Bird: 0.33
+Speech: 0.47, Bird: 0.34
+Speech: 0.37, Bird: 0.28
+Bird: 0.39, Speech: 0.36
+Speech: 0.40, Bird: 0.35
+Speech: 0.39, Bird: 0.30
+Speech: 0.40, Bird: 0.33
+Speech: 0.40, Bird: 0.36
+Bird: 0.39, Speech: 0.33
+Speech: 0.41, Bird: 0.38, Computer keyboard: 0.20
+Bird: 0.52, Speech: 0.36
+Speech: 0.40, Bird: 0.33
+Speech: 0.41, Bird: 0.27
+Speech: 0.38, Bird: 0.38
+Computer keyboard: 0.71, Speech: 0.30
+Speech: 0.36, Bird: 0.24
+Computer keyboard: 0.53, Speech: 0.29
+Speech: 0.36, Bird: 0.24, Computer keyboard: 0.21
+Speech: 0.45, Bird: 0.36
+Speech: 0.46, Bird: 0.27
+Speech: 0.41, Bird: 0.26
+Speech: 0.44, Bird: 0.35
+Speech: 0.36, Bird: 0.31
+Speech: 0.33, Bird: 0.29, Computer keyboard: 0.28
+Bird: 0.39, Speech: 0.39
+Speech: 0.49, Bird: 0.29
+Speech: 0.34, Bird: 0.30
+Speech: 0.42, Bird: 0.30
+Speech: 0.41, Bird: 0.33
+Speech: 0.45, Bird: 0.33
+Speech: 0.44, Bird: 0.29
+Speech: 0.36, Bird: 0.23
+Speech: 0.41, Bird: 0.31
+Speech: 0.43, Bird: 0.33
+Speech: 0.47, Bird: 0.33
+Speech: 0.45, Bird: 0.39
+Speech: 0.46, Bird: 0.28
+Speech: 0.35, Bird: 0.25
+Speech: 0.35, Bird: 0.25
+Speech: 0.34, Bird: 0.25
+Speech: 0.36, Bird: 0.26
+Speech: 0.40, Bird: 0.26
+Speech: 0.37, Bird: 0.24
+Speech: 0.45, Bird: 0.30
+Speech: 0.42, Bird: 0.30
+Speech: 0.42, Bird: 0.30
+Speech: 0.43, Bird: 0.35
+Bird: 0.29, Speech: 0.22
+Speech: 0.42, Bird: 0.34
+Speech: 0.38, Bird: 0.31
+Speech: 0.43, Bird: 0.35
+Speech: 0.38, Bird: 0.33
+Speech: 0.35, Bird: 0.28
+Speech: 0.42, Bird: 0.28
+Speech: 0.43, Bird: 0.24
+Computer keyboard: 0.67, Speech: 0.42
+Computer keyboard: 0.88, Speech: 0.28
+Computer keyboard: 0.88, Speech: 0.28
+Computer keyboard: 0.33, Speech: 0.33
+Speech: 0.35, Bird: 0.29
+Speech: 0.38, Bird: 0.28
+Speech: 0.43, Bird: 0.29
+Speech: 0.39, Bird: 0.29
+Speech: 0.41, Bird: 0.33
+Speech: 0.42, Bird: 0.30
+Speech: 0.41, Bird: 0.33
+Speech: 0.39, Bird: 0.31
+Speech: 0.41, Bird: 0.31
+Speech: 0.42, Bird: 0.32
+Speech: 0.40, Bird: 0.27
+Speech: 0.27, Bird: 0.24
+Computer keyboard: 0.94, Speech: 0.35
+Speech: 0.40, Computer keyboard: 0.31
+Speech: 0.38, Bird: 0.31
+Bird: 0.39, Speech: 0.31
+Speech: 0.31, Bird: 0.23
+Speech: 0.40, Bird: 0.32
+Speech: 0.46, Bird: 0.33
+Speech: 0.44, Bird: 0.34
+Speech: 0.41, Bird: 0.31
+Speech: 0.42, Bird: 0.31
+Speech: 0.38, Bird: 0.31
+Speech: 0.28, Bird: 0.22
+Speech: 0.45, Bird: 0.34
+Speech: 0.40, Bird: 0.29
+Speech: 0.37, Bird: 0.28
+Speech: 0.46, Bird: 0.30
+Speech: 0.38, Bird: 0.31
+Bird: 0.27, Speech: 0.25
+Speech: 0.38, Bird: 0.27
+Speech: 0.41, Bird: 0.30
+Speech: 0.37, Bird: 0.32
+Speech: 0.34, Bird: 0.27
+Speech: 0.38, Bird: 0.27
+Speech: 0.36, Bird: 0.30
+Speech: 0.47, Bird: 0.29
+Computer keyboard: 0.29, Speech: 0.25
+Speech: 0.21
+Computer keyboard: 0.25, Speech: 0.22
+Computer keyboard: 0.38, Speech: 0.27, Bird: 0.22
+Computer keyboard: 0.45
+Computer keyboard: 0.40, Bird: 0.34, Speech: 0.27
+Speech: 0.30, Bird: 0.29
+Bird: 0.25, Speech: 0.24
+Speech: 0.34, Bird: 0.30
+Speech: 0.27
+Speech: 0.33, Bird: 0.27
+Bird: 0.31, Speech: 0.21
+Computer keyboard: 0.49, Speech: 0.26, Bird: 0.22
+Computer keyboard: 0.26, Speech: 0.23
+Speech: 0.36, Computer keyboard: 0.24
+Speech: 0.32, Bird: 0.27
+Speech: 0.42, Bird: 0.36
+Bird: 0.41, Speech: 0.38
+Bird: 0.40, Speech: 0.37
+Bird: 0.30, Speech: 0.28
+Speech: 0.30, Bird: 0.22
+Speech: 0.37, Bird: 0.28
+Speech: 0.39, Bird: 0.31
+Speech: 0.38, Bird: 0.32
+Speech: 0.40, Bird: 0.40
+Speech: 0.40, Bird: 0.31
+Speech: 0.35, Bird: 0.25
+Speech: 0.42, Bird: 0.36
+Bird: 0.39, Speech: 0.36
+Bird: 0.40, Speech: 0.38
+Speech: 0.40, Bird: 0.32
+Speech: 0.34, Bird: 0.26
+Speech: 0.40, Bird: 0.31
+Speech: 0.38, Bird: 0.28
+Speech: 0.37, Bird: 0.28
+Speech: 0.34, Bird: 0.22
+Computer keyboard: 0.87, Speech: 0.30, Bird: 0.20
+Speech: 0.41, Bird: 0.30
+Speech: 0.40, Bird: 0.32
+Computer keyboard: 0.66, Speech: 0.40
+Speech: 0.39, Bird: 0.29
+Speech: 0.40, Bird: 0.29
+Speech: 0.43, Bird: 0.25
+Bird: 0.29, Computer keyboard: 0.28, Speech: 0.23
+Computer keyboard: 0.41, Speech: 0.34, Bird: 0.33
+Speech: 0.50, Bird: 0.30
+Speech: 0.45, Bird: 0.31
+Speech: 0.51, Bird: 0.32
+Speech: 0.38, Bird: 0.30
+Speech: 0.44, Bird: 0.35
+Bird: 0.34, Speech: 0.23
+Speech: 0.37, Bird: 0.37
+Speech: 0.41, Bird: 0.38
+Speech: 0.37, Bird: 0.32
+Speech: 0.40, Bird: 0.30
+Bird: 0.29, Speech: 0.29
+Speech: 0.32, Bird: 0.29
+Speech: 0.40, Bird: 0.31
+Speech: 0.26
+Speech: 0.22
+Bird: 0.28, Speech: 0.27
+Computer keyboard: 0.26, Speech: 0.25
+Speech: 0.22, Bird: 0.21
+Bird: 0.33, Computer keyboard: 0.32, Speech: 0.25
+Speech: 0.43, Bird: 0.26
+Speech: 0.38, Bird: 0.38
+Bird: 0.32, Speech: 0.31
+Speech: 0.33, Bird: 0.30
+Speech: 0.30, Bird: 0.27
+Bird: 0.29, Speech: 0.29
+Bird: 0.37, Speech: 0.33
+Bird: 0.43, Speech: 0.39
+Bird: 0.38, Speech: 0.36
+Bird: 0.39, Speech: 0.33
+Bird: 0.38, Speech: 0.35
+Speech: 0.37, Bird: 0.35
+Bird: 0.42, Speech: 0.33
+Speech: 0.45, Bird: 0.38
+Speech: 0.42, Bird: 0.36
+Bird: 0.41, Speech: 0.33
+Bird: 0.39, Speech: 0.38
+Speech: 0.40, Bird: 0.34
+Speech: 0.39, Bird: 0.33
+Speech: 0.37, Bird: 0.29
+Speech: 0.32, Bird: 0.25
+Speech: 0.41, Bird: 0.34
+Speech: 0.41, Bird: 0.32
+Speech: 0.39, Bird: 0.35
+Speech: 0.37, Bird: 0.29
+Computer keyboard: 0.84, Speech: 0.34
+Speech: 0.42, Bird: 0.32
